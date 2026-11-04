@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Ashok Rana
 
 <p>
+  <a href="https://ashokrana25.github.io"><img src="https://img.shields.io/badge/Portfolio-ashokrana25.github.io-0f766e?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ashok-rana-b1705933/"><img src="https://img.shields.io/badge/LinkedIn-Ashok%20Rana-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/AshokRana25/cx-agent"><img src="https://img.shields.io/badge/Featured-CX%20AI%20Agent-d94f7a?style=for-the-badge&logo=github" alt="Featured project: CX AI Agent"></a>
 </p>
