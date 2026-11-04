@@ -1,5 +1,10 @@
 ## Hi 👋, I'm Ashok Rana
 
+<p>
+  <a href="https://www.linkedin.com/in/ashok-rana-b1705933/"><img src="https://img.shields.io/badge/LinkedIn-Ashok%20Rana-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/AshokRana25/cx-agent"><img src="https://img.shields.io/badge/Featured-CX%20AI%20Agent-d94f7a?style=for-the-badge&logo=github" alt="Featured project: CX AI Agent"></a>
+</p>
+
 **Solutions Architect building production-minded AI agents** — I design, prototype and ship LLM-powered systems that solve real business problems.
 
 I'm a Solutions Architect with **16+ years** in software engineering and technical delivery, across **healthcare revenue cycle management** (HL7, claims and denials) and **consumer-brand / e-commerce platforms**. Today I work on applied AI: MCP connectors that bring brand, SKU and operational data into ChatGPT and Copilot, reusable enterprise AI services (Python/FastAPI, TypeScript/NestJS), and conversational workflows for marketing teams.
