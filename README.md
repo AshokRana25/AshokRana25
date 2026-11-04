@@ -6,7 +6,7 @@ I'm a Solutions Architect with **16+ years** in software engineering and technic
 
 My focus is the part that makes AI work in production: **tool design, guardrails, retrieval, evaluation and observability.**
 
-**Open to:** Agent Engineer · Forward Deployed Engineer · AI Solutions Architect · Applied AI Engineer
+**Open to:** Agent Engineer · Forward Deployed Engineer · AI Solutions Architect · Applied AI Engineer · Technical Project Owner · Technical Program Manager
 
 ---
 
