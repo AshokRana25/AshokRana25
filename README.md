@@ -3,7 +3,6 @@
 <p>
   <a href="https://ashokrana25.github.io"><img src="https://img.shields.io/badge/Portfolio-ashokrana25.github.io-0f766e?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ashok-rana-b1705933/"><img src="https://img.shields.io/badge/LinkedIn-Ashok%20Rana-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/AshokRana25/cx-agent"><img src="https://img.shields.io/badge/Featured-CX%20AI%20Agent-d94f7a?style=for-the-badge&logo=github" alt="Featured project: CX AI Agent"></a>
 </p>
 
 **Solutions Architect building production-minded AI agents** — I design, prototype and ship LLM-powered systems that solve real business problems.
@@ -66,7 +65,3 @@ Healthcare revenue cycle (claims, denials, HL7) · Consumer brands & e-commerce 
 
 ### 🌱 Currently learning
 Agent evaluation at scale · Voice agents · Multi-agent workflows
-
----
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ashok-rana-b1705933/)
