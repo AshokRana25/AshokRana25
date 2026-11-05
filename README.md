@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/ashok-rana-b1705933/"><img src="https://img.shields.io/badge/LinkedIn-Ashok%20Rana-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-**Solutions Architect building production-minded AI agents** — I design, prototype and ship LLM-powered systems that solve real business problems.
+**I turn customer problems into working software, end to end.** From first conversation to production: discovery, architecture, build, launch and support. New domain, new stack or shifting requirements, I adapt fast and keep delivery on track.
 
 I'm a Solutions Architect with **16+ years** in software engineering and technical delivery, across **healthcare revenue cycle management** (HL7, claims and denials) and **consumer-brand / e-commerce platforms**. Today I work on applied AI: MCP connectors that bring brand, SKU and operational data into ChatGPT and Copilot, reusable enterprise AI services (Python/FastAPI, TypeScript/NestJS), and conversational workflows for marketing teams.
 
-My focus is the part that makes AI work in production: **tool design, guardrails, retrieval, evaluation and observability.**
+In AI work, I focus on what makes it hold up in production: **tool design, guardrails, retrieval, evaluation and observability.**
 
 **Open to:** Agent Engineer · Forward Deployed Engineer · AI Solutions Architect · Applied AI Engineer · Technical Project Owner · Technical Program Manager
 
