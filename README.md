@@ -13,6 +13,14 @@ I'm a Solutions Architect with **16+ years** in software engineering and technic
 
 In AI work, I focus on what makes it hold up in production: **tool design, guardrails, retrieval, evaluation and observability.**
 
+**How I deliver:** client conversations → requirements → initiatives, epics and stories → refinement with the team → DevOps coordination → release planning with client and team → sprint demo and Product Owner sign-off → pre- and post-release support.
+
+**Agile leadership:** Scrum Master at Suntory Global Spirits for four teams (Brand, DevOps, Core Development, Operations), leading the move from Waterfall to Agile and making vendor workload and capacity visible to leadership.
+
+**Experience:** Suntory Global Spirits, Solutions Architect (2021–2026) · R1 RCM, Lead Developer (2014–2021) · Porteck, Senior Developer (2011–2014) · OnDemand Web Solutions, Software Engineer (2009–2011)
+
+**Certifications:** Salesforce Certified Administrator · Salesforce Marketing Cloud Engagement Specialist · Postgraduate Program in Cloud Computing (Great Lakes)
+
 **Open to:** Agent Engineer · Forward Deployed Engineer · AI Solutions Architect · Applied AI Engineer · Technical Project Owner · Technical Program Manager
 
 ---
